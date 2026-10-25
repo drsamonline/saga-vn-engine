@@ -233,7 +233,7 @@ bg.<region>              ->   bg_<region>.webp
 ```
 
 Ship no art and the game runs text-only — a missing portrait simply hides. The
-sprites in `assets/sprites/` here are **generated placeholders**, MIT-licensed
+sprites in `assets/sprites/` here are **generated placeholders**, PolyForm Noncommercial-licensed
 like the engine. Replace them.
 
 Rebuild the index after adding art:
@@ -293,7 +293,7 @@ accessibility work and new mod hook points are all welcome.
 
 | what | licence |
 |---|---|
-| The Saga engine — code, stylesheet, tools | **[MIT](LICENSE)** — use it, fork it, ship it |
+| The Saga engine — code, stylesheet, tools | **[PolyForm Noncommercial](LICENSE)** — use it, fork it, ship it |
 | The *Aethelgard — The Books* game's artwork, story and characters | © Dr. Sohil Momin, **all rights reserved** — free to play, not open source. Not contained in this repository |
 
 If you build a game on this engine, your content is yours; the engine stays MIT.
