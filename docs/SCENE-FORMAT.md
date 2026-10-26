@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/format-plain%20text-blue" alt="Plain text format">
   <img src="https://img.shields.io/badge/build%20step-none-orange" alt="No build step">
-  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="PolyForm Noncommercial License 1.0.0">
 </p>
 
 A chapter is a plain text file. You can write one in a notebook. Nothing here
