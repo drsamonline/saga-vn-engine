@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://drsamonline.github.io/saga-vn-engine/"><img src="https://img.shields.io/badge/%E2%96%B6%20landing%20page-live-e0b252?style=for-the-badge&labelColor=1a1035" alt="Landing page"></a>
 <a href="https://drsamonline.github.io/"><img src="https://img.shields.io/badge/All%20projects-drsamonline.github.io-e0b252?style=for-the-badge&labelColor=1a1035" alt="All projects"></a>
-  <a href="https://github.com/drsamonline/saga-vn-engine/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-e0b252?style=for-the-badge&labelColor=1a1035" alt="License: MIT"></a>
+  <a href="https://github.com/drsamonline/saga-vn-engine/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-2e7d32?style=for-the-badge&labelColor=1a1035" alt="License: PolyForm Noncommercial 1.0.0"></a>
   <a href="https://github.com/drsamonline/saga-vn-engine/stargazers"><img src="https://img.shields.io/github/stars/drsamonline/saga-vn-engine?style=for-the-badge&color=e0b252&labelColor=1a1035" alt="GitHub stars"></a>
 </p>
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.1-blue?style=for-the-badge" alt="Version 1.0.1">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License: MIT">
+  <img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-2e7d32?style=for-the-badge" alt="License: PolyForm Noncommercial 1.0.0">
   <img src="https://img.shields.io/badge/dependencies-zero-brightgreen?style=for-the-badge" alt="Zero dependencies">
   <img src="https://img.shields.io/badge/build%20step-none-orange?style=for-the-badge" alt="No build step">
   <img src="https://img.shields.io/badge/works%20offline-yes-informational?style=for-the-badge" alt="Works offline">
