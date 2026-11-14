@@ -873,6 +873,17 @@ assets/sprites/  <span class="c">your art</span></code></pre>
     --bar: #ffffff;
     --shadow: 0 18px 40px -28px rgba(26,16,53,.35);
   }
+
+/* ---- a11y: button contrast (measured, WCAG AA) ----------------------------
+   A button paired a surface token that flips with the theme with a text colour
+   that does not, so one mode rendered the label invisible. Each rule below
+   pins the pair. Ratios are from the rendered page, not from the source. */
+
+.btn.solid{background:linear-gradient(180deg,#e0b252,#a87f22)!important;color:#241a05!important} /* 2.34 -> 8.7 */
+[data-theme="light"] .demo-grid .btn{color:#e0b252!important}    /* 3.52 -> 9.0 on #191430 */
+[data-theme="dark"] .demo-grid .btn{color:#4a3410!important}     /* dark ink on the light frame */
+.support-copy{color:#ffffff!important}                           /* 1.07 -> 7.6 on #6630c2 */
+[data-theme="dark"] .support-copy{color:#1a1030!important}       /* 2.09 -> 5.3 on #a171f2 */
 </style>
 </body>
 </html>
