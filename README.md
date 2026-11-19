@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.1-blue?style=for-the-badge" alt="Version 1.0.1">
+  <img src="https://img.shields.io/badge/version-1.0.2-blue?style=for-the-badge" alt="Version 1.0.2">
   <img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-2e7d32?style=for-the-badge" alt="License: PolyForm Noncommercial 1.0.0">
   <img src="https://img.shields.io/badge/dependencies-zero-brightgreen?style=for-the-badge" alt="Zero dependencies">
   <img src="https://img.shields.io/badge/build%20step-none-orange?style=for-the-badge" alt="No build step">

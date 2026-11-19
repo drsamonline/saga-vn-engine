@@ -1,7 +1,7 @@
 # Changelog
 
 <p align="center">
-  <img src="https://img.shields.io/badge/release-v1.0.1-blue" alt="Release v1.0.1">
+  <img src="https://img.shields.io/badge/release-v1.0.2-blue" alt="Release v1.0.2">
   <img src="https://img.shields.io/badge/semver-2.0.0-informational" alt="Semantic Versioning 2.0.0">
 </p>
 
